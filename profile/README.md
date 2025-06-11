@@ -196,7 +196,7 @@ Ser referência em acessibilidade digital no Brasil, combatendo a exclusão digi
     </td>
     <td align="center">
       <a href="https://github.com/RenanSantos0" title="Github Renan">
-        <img src="" width="150px;" alt="Foto de Renan Santos"/><br>
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Renan.jpeg" width="150px;" alt="Foto de Renan Santos"/><br>
         <sub>
           <b>Renan</b>
         </sub>
