@@ -64,7 +64,7 @@ O Braille Way é uma plataforma que tem como objetivo garantir o acesso digital 
   <tr>
   <td align="center">
       <a href="https://www.linkedin.com/in/auroraseles/" title="LinkedIn">
-        <img src="https://github.com/MateusBrk/template-exemplo/blob/main/Aurora.jpg" width="125px;" alt="Foto de Aurora Seles"/><br>
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Aurora.jpg" width="125px;" alt="Foto de Aurora Seles"/><br>
         <sub>
           <b>Aurora Seles</b>
         </sub>
@@ -72,7 +72,7 @@ O Braille Way é uma plataforma que tem como objetivo garantir o acesso digital 
     </td>
       <td align="center">
       <a href="https://www.linkedin.com/in/gabriel-augusto-edu/" title="LinkedIn">
-        <img src="https://github.com/MateusBrk/template-exemplo/blob/main/gabriel.jpg" width="125px;" alt="Foto de Gabriel Azevedo"/><br>
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/gabriel.jpg" width="125px;" alt="Foto de Gabriel Azevedo"/><br>
         <sub>
           <b>Gabriel Azevedo</b>
         </sub>
@@ -80,7 +80,7 @@ O Braille Way é uma plataforma que tem como objetivo garantir o acesso digital 
     </td>
       <td align="center">
       <a href="https://www.linkedin.com/in/julio-santos-26894747/" title="LinkedIn">
-        <img src="https://github.com/MateusBrk/template-exemplo/blob/main/Julio.jpg" width="125px;" alt="Foto de Julio Santos"/><br>
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Julio.jpg" width="125px;" alt="Foto de Julio Santos"/><br>
         <sub>
           <b>Julio Santos</b>
         </sub>
@@ -88,7 +88,7 @@ O Braille Way é uma plataforma que tem como objetivo garantir o acesso digital 
     </td>
           <td align="center">
       <a href="https://www.linkedin.com/in/martarobertateles/" title="LinkedIn">
-        <img src="https://github.com/MateusBrk/template-exemplo/blob/main/Marta.jpg" width="125px;" alt="Foto de Marta Roberta"/><br>
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Marta.jpg" width="125px;" alt="Foto de Marta Roberta"/><br>
         <sub>
           <b>Marta Roberta</b>
         </sub>
