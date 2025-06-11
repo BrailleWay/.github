@@ -220,7 +220,7 @@ Ser referência em acessibilidade digital no Brasil, combatendo a exclusão digi
     </td>
     <td align="center">
       <a href="https://github.com/marciordalio" title="Github Marcio">
-        <img src="" width="150px;" alt="Foto de Marcio Eduardo"/><br>
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Marcio.jpeg" width="150px;" alt="Foto de Marcio Eduardo"/><br>
         <sub>
           <b>Marcio</b>
         </sub>
