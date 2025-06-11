@@ -113,7 +113,7 @@ Ser referência em acessibilidade digital no Brasil, combatendo a exclusão digi
 
 ## Links Úteis
 
-📌 [Protótipo no Figma](#)  
+📌 [Protótipo no Figma](https://www.figma.com/design/xBcX6Wbwsz3MrVLUsrnM1u/Prot%C3%B3tipo-BrailleWay?node-id=0-1&p=f)  
 📌 [Dossiê do projeto (PDF)](./docs/Apresentação%20braille%20way.pdf)  
 📌 [Apresentação da solução (pitch)](#)  
 
