@@ -212,7 +212,7 @@ Ser referência em acessibilidade digital no Brasil, combatendo a exclusão digi
     </td>
     <td align="center">
       <a href="https://github.com/Sammyuxddd" title="Github Samuel">
-        <img src="" width="150px;" alt="Foto de Samuel Borges"/><br>
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Samuel.jpeg" width="150px;" alt="Foto de Samuel Borges"/><br>
         <sub>
           <b>Samuel</b>
         </sub>
