@@ -188,9 +188,19 @@ Ser referência em acessibilidade digital no Brasil, combatendo a exclusão digi
 
 ## Nossas redes e contatos
 
-[![E-mail](https://img.icons8.com/fluency/48/email.png)](mailto:brailleway@contato.com)  
-[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/brailleway)  
-[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/company/brailleway)
+<div style="display: flex; gap: 10px;">
+<a href="https://linktr.ee/brailleway" target="_blank">
+    <img src="https://img.shields.io/badge/LinkTree-0D1117?style=for-the-badge&logo=linktree&labelColor=0D1117">
+</a>
+
+<a href="https://www.linkedin.com/company/brailleway/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117">
+</a>
+
+<a href="https://www.instagram.com/_brailleway" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117">
+</a>
+</div>
 
 ---
 
