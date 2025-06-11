@@ -32,10 +32,17 @@ O Braille Way é uma plataforma que tem como objetivo garantir o acesso digital 
 
 ## Tecnologias usadas
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![ReactJS](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)&nbsp;
+![Vite](https://img.shields.io/badge/vite-0D1117.svg?style=for-the-badge&logo=vite&logoColor=white&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=107C10&labelColor=0D1117)&nbsp;
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=239120&labelColor=0D1117)&nbsp;
+![SpringSecurity](https://img.shields.io/badge/Spring_Security-0D1117?style=for-the-badge&logo=Spring-Security&logoColor=239120&labelColor=0D1117)&nbsp;
+![Hibernate](https://img.shields.io/badge/Hibernate-0D1117?style=for-the-badge&logo=Hibernate&logoColor=239120&labelColor=0D1117)&nbsp;
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0D1117)
 
 ---
 
@@ -107,7 +114,67 @@ Ser referência em acessibilidade digital no Brasil, combatendo a exclusão digi
 
 - Isabella Castello Nuovo Vespoli — Mentora e pedagoga, especialista em acessibilidade e inclusão digital.
 
-*(Outros integrantes da equipe podem ser listados aqui com LinkedIn, GitHub ou outras redes, caso deseje)*
+<table align="center">
+  <tr>
+  <td align="center">
+      <a href="https://github.com/suzannm" title="Github Suzana">
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Suzana.jpeg" width="150px;" alt="Foto de Suzana Maciel"/><br>
+        <sub>
+          <b>Suzana</b>
+        </sub>
+      </a>
+    </td>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MateusBrk" title="Github Mateus">
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Mateus.jpeg" width="150px;" alt="Foto de Mateus"/><br>
+        <sub>
+          <b>Mateus</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Joel-brenno" title="Github Joel">
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Joel.jpeg" width="150px;" alt="Foto de Joel Brenno"/><br>
+        <sub>
+          <b>Joel</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RenanSantos0" title="Github Renan">
+        <img src="" width="150px;" alt="Foto de Renan Santos"/><br>
+        <sub>
+          <b>Renan</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Isally22" title="Github Isabelly">
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Isabelly.jpeg" width="150px;" alt="Foto de Isabelly Esmeralda"/><br>
+        <sub>
+          <b>Isabelly</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sammyuxddd" title="Github Samuel">
+        <img src="" width="150px;" alt="Foto de Samuel Borges"/><br>
+        <sub>
+          <b>Samuel</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/marciordalio" title="Github Marcio">
+        <img src="" width="150px;" alt="Foto de Marcio Eduardo"/><br>
+        <sub>
+          <b>Marcio</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
