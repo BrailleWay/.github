@@ -171,7 +171,7 @@ Ser referência em acessibilidade digital no Brasil, combatendo a exclusão digi
   <tr>
   <td align="center">
       <a href="https://github.com/suzannm" title="Github Suzana">
-        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Suzana.jpeg" width="180px;" alt="Foto de Suzana Maciel"/><br>
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Suzana.jpeg" width="200px;" alt="Foto de Suzana Maciel"/><br>
         <sub>
           <b>Suzana</b>
         </sub>
@@ -180,7 +180,7 @@ Ser referência em acessibilidade digital no Brasil, combatendo a exclusão digi
     </td>
     <td align="center">
       <a href="https://github.com/MateusBrk" title="Github Mateus">
-        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Mateus.jpeg" width="180px;" alt="Foto de Mateus"/><br>
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Mateus.jpeg" width="200px;" alt="Foto de Mateus"/><br>
         <sub>
           <b>Mateus</b>
         </sub>
@@ -188,7 +188,7 @@ Ser referência em acessibilidade digital no Brasil, combatendo a exclusão digi
     </td>
     <td align="center">
       <a href="https://github.com/Joel-brenno" title="Github Joel">
-        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Joel.jpeg" width="180px;" alt="Foto de Joel Brenno"/><br>
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Joel.jpeg" width="200px;" alt="Foto de Joel Brenno"/><br>
         <sub>
           <b>Joel</b>
         </sub>
@@ -196,7 +196,7 @@ Ser referência em acessibilidade digital no Brasil, combatendo a exclusão digi
     </td>
     <td align="center">
       <a href="https://github.com/RenanSantos0" title="Github Renan">
-        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Renan.jpeg" width="180px;" alt="Foto de Renan Santos"/><br>
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Renan.jpeg" width="200px;" alt="Foto de Renan Santos"/><br>
         <sub>
           <b>Renan</b>
         </sub>
@@ -204,7 +204,7 @@ Ser referência em acessibilidade digital no Brasil, combatendo a exclusão digi
     </td>
     <td align="center">
       <a href="https://github.com/Isally22" title="Github Isabelly">
-        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Isabelly.jpeg" width="180px;" alt="Foto de Isabelly Esmeralda"/><br>
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Isabelly.jpeg" width="200px;" alt="Foto de Isabelly Esmeralda"/><br>
         <sub>
           <b>Isabelly</b>
         </sub>
@@ -212,7 +212,7 @@ Ser referência em acessibilidade digital no Brasil, combatendo a exclusão digi
     </td>
     <td align="center">
       <a href="https://github.com/Sammyuxddd" title="Github Samuel">
-        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Samuel.jpeg" width="180px;" alt="Foto de Samuel Borges"/><br>
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Samuel.jpeg" width="200px;" alt="Foto de Samuel Borges"/><br>
         <sub>
           <b>Samuel</b>
         </sub>
@@ -220,7 +220,7 @@ Ser referência em acessibilidade digital no Brasil, combatendo a exclusão digi
     </td>
     <td align="center">
       <a href="https://github.com/marciordalio" title="Github Marcio">
-        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Marcio.jpeg" width="180px;" alt="Foto de Marcio Eduardo"/><br>
+        <img src="https://github.com/BrailleWay/.github/blob/main/profile/Marcio.jpeg" width="200px;" alt="Foto de Marcio Eduardo"/><br>
         <sub>
           <b>Marcio</b>
         </sub>
