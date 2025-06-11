@@ -8,17 +8,18 @@
   <summary><strong>Índice</strong></summary>
 
 1. [Objetivo do projeto](#objetivo-do-projeto)
-2. [Tecnologias usadas](#tecnologias-usadas)
-3. [Funcionalidades](#funcionalidades)
-4. [Missão](#missão)
-5. [Visão](#visão)
-6. [Valores](#valores)
-7. [Próximos passos](#próximos-passos)
-8. [Identidade Visual](#identidade-visual)
-9. [Equipe](#equipe)
-10. [Links Úteis](#links-úteis)
-11. [Nossas redes e contatos](#nossas-redes-e-contatos)
-12. [Licença](#licença)
+2. [Tecnologias e ferramentas usadas](#tecnologias-usadas)
+3. [Docentes](#docentes)
+4. [Funcionalidades](#funcionalidades)
+5. [Missão](#missão)
+6. [Visão](#visão)
+7. [Valores](#valores)
+8. [Próximos passos](#próximos-passos)
+9. [Identidade Visual](#identidade-visual)
+10. [Equipe](#equipe)
+11. [Links Úteis](#links-úteis)
+12. [Nossas redes e contatos](#nossas-redes-e-contatos)
+13. [Licença](#licença)
 
 </details>
 
@@ -43,6 +44,58 @@ O Braille Way é uma plataforma que tem como objetivo garantir o acesso digital 
 ![Hibernate](https://img.shields.io/badge/Hibernate-0D1117?style=for-the-badge&logo=Hibernate&logoColor=239120&labelColor=0D1117)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0D1117)
+
+### Ferramentas
+
+![Intellij](https://img.shields.io/badge/intellij-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=Git&logoColor=white&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=Postman&logoColor=white&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-0D1117.svg?style=for-the-badge&logo=Canva&logoColor=white&labelColor=0D1117)
+![Trello](https://img.shields.io/badge/trello-0D1117?style=for-the-badge&logo=trello&logoColor=white&labelColor=0D1117)&nbsp;
+
+---
+
+## Docentes
+
+<table align="center">
+  <tr>
+  <td align="center">
+      <a href="https://www.linkedin.com/in/auroraseles/" title="LinkedIn">
+        <img src="https://github.com/MateusBrk/template-exemplo/blob/main/Aurora.jpg" width="125px;" alt="Foto de Aurora Seles"/><br>
+        <sub>
+          <b>Aurora Seles</b>
+        </sub>
+      </a>
+    </td>
+      <td align="center">
+      <a href="https://www.linkedin.com/in/gabriel-augusto-edu/" title="LinkedIn">
+        <img src="https://github.com/MateusBrk/template-exemplo/blob/main/gabriel.jpg" width="125px;" alt="Foto de Gabriel Azevedo"/><br>
+        <sub>
+          <b>Gabriel Azevedo</b>
+        </sub>
+      </a>
+    </td>
+      <td align="center">
+      <a href="https://www.linkedin.com/in/julio-santos-26894747/" title="LinkedIn">
+        <img src="https://github.com/MateusBrk/template-exemplo/blob/main/Julio.jpg" width="125px;" alt="Foto de Julio Santos"/><br>
+        <sub>
+          <b>Julio Santos</b>
+        </sub>
+      </a>
+    </td>
+          <td align="center">
+      <a href="https://www.linkedin.com/in/martarobertateles/" title="LinkedIn">
+        <img src="https://github.com/MateusBrk/template-exemplo/blob/main/Marta.jpg" width="125px;" alt="Foto de Marta Roberta"/><br>
+        <sub>
+          <b>Marta Roberta</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
