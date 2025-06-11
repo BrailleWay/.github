@@ -1,6 +1,6 @@
 # Braille Way
 
-![Logo do Braille Way](./assets/logo-brailleway.png)
+![Logo do Braille Way](./Colorful_Brain_Human_Technology_Logo_(18).png)
 
 ## Índice
 
